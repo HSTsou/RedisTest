@@ -6,4 +6,7 @@
 redis-server.exe redis.windows.conf  
 完成後就可以利用此專案練習Redis應用  
 ![](https://github.com/HSTsou/RedisTest/blob/master/redisRunServer.PNG)  
-(也可開新的CMD視窗，在C:\Redis路徑底下執行：redis-cli.exe -h 127.0.0.1 -p 6379 )  
+(也可開新的CMD視窗，在C:\Redis路徑底下執行：redis-cli.exe -h 127.0.0.1 -p 6379 )  
+</br>以下分享幾個好連結:
+</br>http://www.blogways.net/blog/2013/06/02/jedis-demo.html 
+</br>https://www.ibm.com/developerworks/cn/java/os-springredis/
